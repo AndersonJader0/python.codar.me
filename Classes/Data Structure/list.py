@@ -15,4 +15,4 @@ print("após inserção")
 print(notas)
 
 notas.pop(0)
-print(notas)
+print(notas)    
